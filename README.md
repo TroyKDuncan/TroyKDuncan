@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TroyKDuncan
-- 👀 I love my growing family, music, sports, video games, and of course, programming
-- 🌱 I just finished my bachelors in computer engineering, and I’m currently working on projects 
+- 👀 I love my little family, music, sports, video games, and of course, programming
+- 🌱 I finished my bachelors in computer engineering about a year ago, and I’m currently working on projects and development for a small company
 - ⚡ Nothing will stop me from achieving my goal to provide my family the best life I can
 
 <!---
